@@ -1,8 +1,5 @@
-# tcc-ciclos-liquefacao-helio
-Códigos desenvolvidos para a modelagem e análise termodinâmica de ciclos de liquefação de hélio.
-
 # Modelagem de Ciclos de Liquefação de Hélio
-Este repositório contém os códigos desenvolvidos para o Trabalho de Conclusão de Curso em Engenharia Mecânica, voltado à modelagem e análise termodinâmica de ciclos de liquefação de hélio baseados no ciclo de Collins.
+Este repositório contém os códigos desenvolvidos para o Trabalho de Conclusão de Curso em Engenharia Mecânica, voltado à modelagem e análise termodinâmica de ciclos de liquefação de hélio baseados no ciclo de Collins com dois expansores.
 
 ## Códigos disponíveis
 - `ciclos de Collins sem pre-resfriamento.py`: modelo do ciclo de Collins sem pré-resfriamento com nitrogênio líquido.
