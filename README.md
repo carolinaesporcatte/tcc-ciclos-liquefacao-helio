@@ -15,7 +15,7 @@ Os modelos foram desenvolvidos em Python, utilizando principalmente:
 - Matplotlib
 
 ## Objetivo
-Os códigos permitem avaliar parâmetros de desempenho como fração liquefeita, potência líquida, OP e eficiência exergética dos ciclos analisados.
+Os códigos permitem avaliar parâmetros de desempenho como fração liquefeita, potência líquida, OP e eficiência exergética dos ciclos analisados. Além de também calcular a taxa de destruição de exergia e eficiência exergética dos equipamentos. 
 
 ## Autora
 Carolina Mathias Esporcatte  
